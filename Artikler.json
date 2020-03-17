@@ -1,0 +1,9 @@
+{
+  "Artikler":
+    [
+      { "Forfatter": "Abraham", "Overskrift": "Globale nyheder", "Tekst": "Togene kører stadig ikke", "Årstal": "2020" },
+      { "Forfatter": "Brian", "Overskrift": "Sundhed", "Tekst": "Flere grøntsager", "Årstal": "2015" },
+      { "Forfatter": "Charlie", "Overskrift": "Politik", "Tekst": "Rød & Blå blok", "Årstal": "2018" },
+      { "Forfatter": "Charlie", "Overskrift": "Miljø", "Tekst": "Grønt tiltag", "Årstal": "2015" }
+    ]
+}
